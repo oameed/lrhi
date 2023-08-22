@@ -77,7 +77,7 @@
 
   * **_Judaism & Christianity_**  
   
-    [[view]](https://global.oup.com/academic/product/the-new-oxford-annotated-bible-with-apocrypha-9780190276072?cc=us&lang=en&). _The Bible_ [[KJV Bible]](https://www.kingjamesbibleonline.org/)  
+    [[view]](https://global.oup.com/academic/product/the-new-oxford-annotated-bible-with-apocrypha-9780190276072?cc=us&lang=en&). _The Bible_ [[KJV Bible]](https://www.kingjamesbibleonline.org/) [[TANAKH from Sefaria.org]](https://www.sefaria.org/texts/Tanakh)  
   
 * **_Archaeological Sites & Artefacts_**  
   
