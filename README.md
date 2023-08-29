@@ -21,6 +21,7 @@
 [[view]](https://www.bloomsburycollections.com/book/early-islamic-iran-volume-v-the-idea-of-iran/). Volume 5: _Early Islamic Iran_ (Herzig, 2012)  
 [[view]](https://www.bloomsburycollections.com/book/the-age-of-the-seljuqs/). Volume 6: _The Age of Seljuqs_ (Herzig, 2015)  
 
+[[view]](https://press.princeton.edu/books/paperback/9780691208015/1177-bc). 2014. Cline. _1177 B.C. The Year Civilization Collapsed_  
 [[view]](https://www.bloomsbury.com/us/zoroastrianism-9781350128712/). 2011. Rose. _Zoroastrianism An Introduction_  
 [[view]](https://www.bloomsbury.com/us/sasanian-persia-9780755618439/). 2009. Daryaee. _Sasanian Persia_  
 [[view]](https://www.routledge.com/The-Persians/Brosius/p/book/9780415320900#). 2006. Brosius. _The Persians An Introduction_  
@@ -81,7 +82,7 @@
   
 * **_Archaeological Sites & Artefacts_**  
   
-  * **_The Achaemenid Period_**<br/><br/>
+  * **_The Achaemenid and Sassanid Periods_**<br/><br/>
     * [**_The Cyrus Cylinder_**](https://www.britishmuseum.org/collection/object/W_1880-0617-1941)  
       [[view]](https://www.eisenbrauns.org/books/titles/978-1-57506-135-1.html). 2007. Kuhrt. _Cyrus the Great of Persia Images and Realities_  
       [[view]](https://www.cambridge.org/core/journals/cambridge-classical-journal/article/abs/achaemenid-empire-a-babylonian-perspective/F7F04CE323B994B1F79A0AC7F4858AC4). 1988. Kuhrt. _The Achaemenid Empire a Babylonian Perspective_
@@ -92,7 +93,7 @@
       [[view]](https://www.google.com/books/edition/_/YPDwDQAAQBAJ?hl=en). 1953. Kent. _Old Persian_<br/><br/>
       **_Studies in Ancient Oriental Civilization (SAOC)_**  
       [[view]](https://isac.uchicago.edu/research/publications/saoc/saoc-5-new-inscription-xerxes-persepolis). Volume 5: 1932. Herzfeld. _A New Inscription of Xerxes from Persepolis_<br/><br/>
-    * **_Persepolis, Naqsh-i Rustam [[The Persian Expedition]](https://isac.uchicago.edu/research/projects/persian-expedition)_**<br/><br/>
+    * **_Persepolis, Naqsh-i-Rustam, Naqsh-i-Rajab [[The Persian Expedition]](https://isac.uchicago.edu/research/projects/persian-expedition)_**<br/><br/>
       **_Oriental Institute Publications (OIP)_**      
       [[view]](https://isac.uchicago.edu/research/publications/oip/persepolis-fortification-tablets). Volume 92: 1969. Hallock. _Persepolis Fortification Tablets_  
       [[view]](https://isac.uchicago.edu/research/publications/oip/aramaic-ritual-texts-persepolis). Volume 91: 1970. Bowman. _Aramaic Ritual Texts from Persepolis_  
@@ -138,7 +139,6 @@
 ## Research
 
 * **_The Near East at the Dawn of Persia_**<br/><br/>
-[[view]](https://press.princeton.edu/books/paperback/9780691208015/1177-bc). 2014. Cline. _1177 B.C. The Year Civilization Collapsed_  
 [[view]](https://www.cambridge.org/core/books/archaeology-of-elam/E0F36153F732397AE1480DA2603ABA28). 2004. Potts. _The Archaeology of Elam_  
 [[view]](https://www.routledge.com/The-Ancient-Near-East-c3000330-BC-2-volumes/Kuhrt/p/book/9780415167628#). 1997. Kuhrt. _The Ancient Near East c. 3000-330 BC_  
 [[view]](https://www.tandfonline.com/doi/abs/10.1080/05786967.1967.11834760). 1967. Young. _The Iranian Migration Into the Zagros_  
@@ -170,17 +170,15 @@
 [view]. 1961. Zaehner. _The Dawn and Twilight of Zoroastrianism_  
 [view]. 1955. Zaehner. _Zurvan A Zoroastrian Dilemma_  
 
-* **_Religions of the Near East: Judaism_**<br/><br/>
-[[view]](https://www.harpercollins.com/products/the-exodus-richard-elliott-friedman?variant=32117516140578). 2017. Friedman. _The Exodus_  
-[[view]](https://global.oup.com/academic/product/jews-and-samaritans-9780190068790?cc=us&lang=en&). 2013. Knoppers. _Jews and Samaritans The Origins and History of Their Early Relations_  
-[[view]](https://www.eerdmans.com/Products/3223/the-scepter-and-the-star.aspx). 2010. Collins. _The Scepter and the Star Messianism in Light of the Dead Sea Scrolls_  
-[[view]](https://brill.com/display/title/15593). 2009. Kartveit. _The Origin of the Samaritans_  
-[[view]](https://www.harpercollins.com/products/the-bible-with-sources-revealed-richard-elliott-friedman?variant=32207487926306). 2005. Friedman. _The Bible with Sources Revealed_  
-[[view]](https://www.eerdmans.com/Products/3972/the-early-history-of-god.aspx). 2002. Smith. _The Early History of God Yahweh and the Other Deities in Ancient Israel_  
-[[view]](https://global.oup.com/academic/product/the-origins-of-biblical-monotheism-9780195167689?cc=us&lang=en&). 2001. Smith. _The Origins of Biblical Monotheism Israel's Polytheistic Background and the Ugaritic Texts_  
-[[view]](https://www.bloomsbury.com/us/samaritans-and-early-judaism-9780567260468/). 2000. Hjelm. _The Samaritans and Early Judaism A Literary Analysis_  
-[[view]](https://www.simonandschuster.com/books/Who-Wrote-the-Bible/Richard-Friedman/9781501192401). 1997. Friedman. _Who Wrote the Bible_  
-[[view]](https://www.penguinrandomhouse.com/books/56381/moses-and-monotheism-by-sigmund-freud/). 1939. Freud. _Moses and Monotheism_  
+* **_Religions of the Near East: Manichaeism_**<br/><br/>
+[[view]](https://www.press.uillinois.edu/books/?id=c032783). 2008. Tardieu. _Manichaeism_  
+[[view]](https://www.cambridge.org/core/books/manichaean-texts-from-the-roman-empire/7965C563649616E9FE674E039CA275F4). 2004. Gardner. _Manichaean Texts from The Roman Empire_  
+
+* **_Religions of the Near East: Gnosticism_**<br/><br/>
+[[view]](https://www.hup.harvard.edu/catalog.php?isbn=9780674066038). 2010. Brakke. _The Gnostics_  
+[[view]](https://blackwells.co.uk/bookshop/product/Gnosticism-by-Stephan-A-Hoeller/9780835608169). 2002. Hoeller. _Gnosticism_  
+[[view]](https://www.penguinrandomhouse.com/books/206189/the-gnostic-religion-by-hans-jonas/). 2001. Jonas. _The Gnostic Religion_  
+[[view]](https://www.harpercollins.com/products/gnosis-kurt-rudolph?variant=32117955657762). 1987. Rudolph. _Gnosis The Nature and History of Gnosticism_  
 
 * **_Religions of the Near East: Christianity_**<br/><br/>
 [[view]](https://www.harpercollins.com/products/how-jesus-became-god-bart-d-ehrman?variant=32122265632802). 2014. Ehrman. _How Jesus Became God The Exaltation of a Jewish Preacher from Galilee_  
@@ -191,16 +189,6 @@
 [[view]](https://yalebooks.yale.edu/book/9780300084573/from-jesus-to-christ/). 2000. Fredriksen. _From Jesus to Christ_  
 [[view]](https://www.routledge.com/The-Church-of-the-East-A-Concise-History/Baum-Winkler/p/book/9780415600217#). 2000. Baum. _The Church of the East_  
 [[view]](https://brill.com/display/title/264). 1998. Gieschen. _Angelomorphic Christology_  
-
-* **_Religions of the Near East: Gnosticism_**<br/><br/>
-[[view]](https://www.hup.harvard.edu/catalog.php?isbn=9780674066038). 2010. Brakke. _The Gnostics_  
-[[view]](https://blackwells.co.uk/bookshop/product/Gnosticism-by-Stephan-A-Hoeller/9780835608169). 2002. Hoeller. _Gnosticism_  
-[[view]](https://www.penguinrandomhouse.com/books/206189/the-gnostic-religion-by-hans-jonas/). 2001. Jonas. _The Gnostic Religion_  
-[[view]](https://www.harpercollins.com/products/gnosis-kurt-rudolph?variant=32117955657762). 1987. Rudolph. _Gnosis The Nature and History of Gnosticism_  
-
-* **_Religions of the Near East: Manichaeism_**<br/><br/>
-[[view]](https://www.press.uillinois.edu/books/?id=c032783). 2008. Tardieu. _Manichaeism_  
-[[view]](https://www.cambridge.org/core/books/manichaean-texts-from-the-roman-empire/7965C563649616E9FE674E039CA275F4). 2004. Gardner. _Manichaean Texts from The Roman Empire_  
 
 * **_Religions of the Near East: Islam_**<br/><br/>
 [[view]](https://global.oup.com/academic/product/in-gods-path-9780190618575?cc=us&lang=en&). 2017. Hoyland. _In God's Path_  
@@ -226,15 +214,9 @@
 [view]. 1987. Crone. _Meccan Trade and the Rise of Islam_  
 [[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/hagarism-making-islamic-world). 1980. Crone. _Hagarism The Making of the Islamic World_  
 
-* **_Histories of Relevant Peoples_**<br/><br/>
-  * _The Indians_<br/><br/>
-    [[view]](https://global.oup.com/academic/product/the-rigveda-9780190685003?cc=us&lang=en&). 2014. Jamison. _The Rigveda_  
+* **_Histories/Religions of Relevant Peoples_**<br/><br/>
   
-  * _The Greeks_<br/><br/>
-
-  * _The Romans_<br/><br/>
-      
-  * _The Arabs & Muslims_<br/><br/>
+  * _The Arabs/Muslims_<br/><br/>
     **_The Sacred Books and Early Literature of the East_**  
     [[view]](https://www.google.com/books/edition/The_Sacred_Books_and_Early_Literature_of/YwsOAAAAIAAJ?hl=en). Volume 5: Ancient Arabia: The Hanged Poems, The Koran (Horne, 1917)<br/><br/>
     **_Lectures on the Religion of the Semites_**  
@@ -242,4 +224,25 @@
     
     [[view]](https://www.routledge.com/Arabia-and-the-Arabs-From-the-Bronze-Age-to-the-Coming-of-Islam/Hoyland/p/book/9780415195355#). 2001. Hoyland. _Arabia and Arabs_  
     [[view]](https://www.google.com/books/edition/Kinship_and_Marriage_in_Early_Arabia/OJE_AQAAMAAJ?hl=en). Smith. 1907. _Kinship and Marriage in Early Arabia_  
+
+  * _The Greeks_<br/><br/>
+
+  * _The Indians_<br/><br/>
+    [[view]](https://global.oup.com/academic/product/the-rigveda-9780190685003?cc=us&lang=en&). 2014. Jamison. _The Rigveda_  
+
+  * _The Israelites/Jews_<br/><br/>
+  [[view]](https://www.harpercollins.com/products/the-exodus-richard-elliott-friedman?variant=32117516140578). 2017. Friedman. _The Exodus_  
+  [[view]](https://global.oup.com/academic/product/jews-and-samaritans-9780190068790?cc=us&lang=en&). 2013. Knoppers. _Jews and Samaritans The Origins and History of Their Early Relations_  
+  [[view]](https://www.eerdmans.com/Products/3223/the-scepter-and-the-star.aspx). 2010. Collins. _The Scepter and the Star Messianism in Light of the Dead Sea Scrolls_  
+  [[view]](https://brill.com/display/title/15593). 2009. Kartveit. _The Origin of the Samaritans_  
+  [[view]](https://www.harpercollins.com/products/the-bible-with-sources-revealed-richard-elliott-friedman?variant=32207487926306). 2005. Friedman. _The Bible with Sources Revealed_  
+  [[view]](https://www.eerdmans.com/Products/3972/the-early-history-of-god.aspx). 2002. Smith. _The Early History of God Yahweh and the Other Deities in Ancient Israel_  
+  [[view]](https://global.oup.com/academic/product/the-origins-of-biblical-monotheism-9780195167689?cc=us&lang=en&). 2001. Smith. _The Origins of Biblical Monotheism Israel's Polytheistic Background and the Ugaritic Texts_  
+  [[view]](https://www.bloomsbury.com/us/samaritans-and-early-judaism-9780567260468/). 2000. Hjelm. _The Samaritans and Early Judaism A Literary Analysis_  
+  [[view]](https://www.simonandschuster.com/books/Who-Wrote-the-Bible/Richard-Friedman/9781501192401). 1997. Friedman. _Who Wrote the Bible_  
+  [[view]](https://www.penguinrandomhouse.com/books/56381/moses-and-monotheism-by-sigmund-freud/). 1939. Freud. _Moses and Monotheism_  
+  
+  * _The Romans_<br/><br/>
+      
+  
   
