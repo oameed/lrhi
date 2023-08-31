@@ -46,8 +46,8 @@
 ## Primary Sources
 
 * **_Texts_**  
-
-  * **_Zoroastrianism_**<br/><br/>
+  
+  * **_Religious Canon: Zoroastrianism_**<br/><br/>
     [[view]](https://press.uchicago.edu/ucp/books/book/chicago/T/bo3655535.html). 1984. Boyce. _Textual Sources for the Study of Zoroastrianism_  
   
     **_The Sacred Books of the East (Max Muller)_**  
@@ -64,22 +64,13 @@
     [[view]](https://www.google.com/books/edition/The_Sacred_Books_and_Early_Literature_of/LJAOAQAAIAAJ?hl=en). Volume 7: Ancient Persia (Horne, 1917)  
     
     [[view]](https://global.oup.com/academic/product/the-bundahin-9780190879044?cc=us&lang=en&#). 2020. Agostini. _The Bundahisn The Zoroastrian Book of Creation_  
-    [[view]](https://brill.com/display/title/15559). 2009. Williams. _The Zoroastrian Myth of Migration from Iran_  
-    [[view]](https://www.penguinrandomhouse.com/books/297267/shahnameh-by-abolqasem-ferdowsi-translated-by-dick-davis-foreword-by-azar-nafisi/9781440649660/). 2006. Davis. _Ferdowsi's Shahnameh: The Persian Book of Kings_ [[Ganjoor]](https://ganjoor.net/ferdousi/shahname)  
     [view]. 1956. Anklesaria. _Zand Akasih The Iranian (Greater) Bundahisn_ [[avesta.org]](http://www.avesta.org/mp/grb.pdf)  
     
-  * **_Islam_**  
-    
-    [[view]](https://global.oup.com/academic/product/the-quran-9780199535958?cc=us&lang=en&). _The Quran_ [[quran.com]](https://quran.com/)  
-    [[view]](https://global.oup.com/academic/product/the-life-of-muhammad-9780196360331?cc=us&lang=en&). 2002. Guillaume. _Ibn Ishaq's The Life of Muhammad_
-    
-  * **_Shiism_**  
+  * **_Histories_**  
+    [[view]](https://brill.com/display/title/15559). 2009. Williams. _The Zoroastrian Myth of Migration from Iran_  
     [[view]](https://sunypress.edu/Books/S/Set-History-of-al-abari). 2007. Yarshater. _History of Al-Tabari_  
+    [[view]](https://www.penguinrandomhouse.com/books/297267/shahnameh-by-abolqasem-ferdowsi-translated-by-dick-davis-foreword-by-azar-nafisi/9781440649660/). 2006. Davis. _Ferdowsi's Shahnameh: The Persian Book of Kings_ [[Ganjoor]](https://ganjoor.net/ferdousi/shahname)  
 
-  * **_Judaism & Christianity_**  
-  
-    [[view]](https://global.oup.com/academic/product/the-new-oxford-annotated-bible-with-apocrypha-9780190276072?cc=us&lang=en&). _The Bible_ [[KJV Bible]](https://www.kingjamesbibleonline.org/) [[TANAKH from Sefaria.org]](https://www.sefaria.org/texts/Tanakh) [[Torah's Sources]](https://en.wikiversity.org/wiki/Bible/King_James/Documentary_Hypothesis)   
-  
 * **_Archaeological Sites & Artefacts_**  
   
   * **_The Achaemenid and Sassanid Periods_**<br/><br/>
@@ -148,7 +139,7 @@
 [[view]](https://press.princeton.edu/books/paperback/9780691148182/the-horse-the-wheel-and-language). 2007. Anthony. _The Horse, Wheel and Language_  
 [view]. 1991. 1991. Mallory. _In Search of the Indo Europeans_  
 
-* **_Political History of Persia & Eranshahr_**<br/><br/>
+* **_Political History of Persia/Eranshahr_**<br/><br/>
 [[view]](https://www.ucpress.edu/book/9780520292451/a-state-of-mixture). 2015. Payne. _A State of Mixture Christians Zoroastrians and Iranian Political Culture in Late Antiquity_  
 [view]. 2012. Curtis. _The Parthian and Early Sasanian Empires_  
 [[view]](https://www.routledge.com/The-Persian-Empire-A-Corpus-of-Sources-from-the-Achaemenid-Period/Kuhrt/p/book/9780415436281). 2010. Kuhrt. _The Persian Empire A Corpus of Sources from the Achaemenid Period_  
@@ -158,7 +149,7 @@
 [view]. 1993. SherwinWhite. Kuhrt. _From Samarkhand to Sardis A New Approach to the Seleucid Empire_  
 [view]. 1989. Gnoli. _The Idea of Iran an Essay on its Origin_  
 
-* **_Religions of the Near East: Zoroastrianism_**  <br/><br/>
+* **_The Religion of Eranshahr: Zoroastrianism_**<br/><br/>
 **_A History of Zoroastrianism_**  
 [[view]](https://brill.com/display/title/1973). Volume 1: _The Early Period_ (Boyce, 1975)  
 [[view]](https://brill.com/display/title/17838). Volume 2: _Zoroastrianism under the Achaemenians_ (Boyce, 1982)  
@@ -170,60 +161,68 @@
 [view]. 1961. Zaehner. _The Dawn and Twilight of Zoroastrianism_  
 [view]. 1955. Zaehner. _Zurvan A Zoroastrian Dilemma_  
 
-* **_Religions of the Near East: Manichaeism_**<br/><br/>
-[[view]](https://www.press.uillinois.edu/books/?id=c032783). 2008. Tardieu. _Manichaeism_  
-[[view]](https://www.cambridge.org/core/books/manichaean-texts-from-the-roman-empire/7965C563649616E9FE674E039CA275F4). 2004. Gardner. _Manichaean Texts from The Roman Empire_  
+* **_Religions of the Near East_**<br/>
+  * _Manichaeism_  
+    [[view]](https://www.press.uillinois.edu/books/?id=c032783). 2008. Tardieu. _Manichaeism_  
+    [[view]](https://www.cambridge.org/core/books/manichaean-texts-from-the-roman-empire/7965C563649616E9FE674E039CA275F4). 2004. Gardner. _Manichaean Texts from The Roman Empire_  
 
-* **_Religions of the Near East: Gnosticism_**<br/><br/>
-[[view]](https://www.hup.harvard.edu/catalog.php?isbn=9780674066038). 2010. Brakke. _The Gnostics_  
-[[view]](https://blackwells.co.uk/bookshop/product/Gnosticism-by-Stephan-A-Hoeller/9780835608169). 2002. Hoeller. _Gnosticism_  
-[[view]](https://www.penguinrandomhouse.com/books/206189/the-gnostic-religion-by-hans-jonas/). 2001. Jonas. _The Gnostic Religion_  
-[[view]](https://www.harpercollins.com/products/gnosis-kurt-rudolph?variant=32117955657762). 1987. Rudolph. _Gnosis The Nature and History of Gnosticism_  
+  * _Gnosticism_  
+    [[view]](https://www.hup.harvard.edu/catalog.php?isbn=9780674066038). 2010. Brakke. _The Gnostics_  
+    [[view]](https://blackwells.co.uk/bookshop/product/Gnosticism-by-Stephan-A-Hoeller/9780835608169). 2002. Hoeller. _Gnosticism_  
+    [[view]](https://www.penguinrandomhouse.com/books/206189/the-gnostic-religion-by-hans-jonas/). 2001. Jonas. _The Gnostic Religion_  
+    [[view]](https://www.harpercollins.com/products/gnosis-kurt-rudolph?variant=32117955657762). 1987. Rudolph. _Gnosis The Nature and History of Gnosticism_  
 
-* **_Religions of the Near East: Christianity_**<br/><br/>
-[[view]](https://www.harpercollins.com/products/how-jesus-became-god-bart-d-ehrman?variant=32122265632802). 2014. Ehrman. _How Jesus Became God The Exaltation of a Jewish Preacher from Galilee_  
-[[view]](https://www.wiley.com/en-ie/The+Rise+of+Western+Christendom:+Triumph+and+Diversity,+A+D+200+1000,+10th+Anniversary+Revised+Edition-p-9781118301265). 2013. Brown. _The Rise of Western Christendom_  
-[[view]](https://www.harpercollins.com/products/misquoting-jesus-bart-d-ehrman?variant=32123366801442). 2005. Ehrman. _Misquoting Jesus The History Behind the Bible_  
-[[view]](https://global.oup.com/academic/product/lost-christianities-9780195182491?cc=us&lang=en&). 2003. Ehrman. _The Lost Christianities The Battles for Scripture and the Faiths We Never Knew_  
-[[view]](https://global.oup.com/ushe/product/christianity-in-late-antiquity-300-450-ce-9780195154610?cc=us&lang=en&). 2003. Ehrman. _Christianity in Late Antiquity, 300-450 C.E._  
-[[view]](https://yalebooks.yale.edu/book/9780300084573/from-jesus-to-christ/). 2000. Fredriksen. _From Jesus to Christ_  
-[[view]](https://www.routledge.com/The-Church-of-the-East-A-Concise-History/Baum-Winkler/p/book/9780415600217#). 2000. Baum. _The Church of the East_  
-[[view]](https://brill.com/display/title/264). 1998. Gieschen. _Angelomorphic Christology_  
-
-* **_Religions of the Near East: Islam_**<br/><br/>
-[[view]](https://global.oup.com/academic/product/in-gods-path-9780190618575?cc=us&lang=en&). 2017. Hoyland. _In God's Path_  
-[[view]](https://global.oup.com/academic/product/islam-and-its-past-9780198748496?cc=us&lang=en&). 2017. Bakhos. _Islam and Its Past_<br/><br/>
-**_Patricia Crone's Collected Studies_**  
-[[view]](https://brill.com/edcollbook/title/32096). Volume 1: _The Quranic Pagans and Related Matters_ (Siurua, 2016)  
-[[view]](https://brill.com/edcollbook/title/33328). Volume 2: _The Iranian Reception of Islam: The Non-Traditionalist Strands_ (Siurua, 2016)  
-[[view]](https://brill.com/edcollbook/title/33329). Volume 3: _Islam, the Ancient Near East and Varieties of Godlessness_ (Siurua, 2016)<br/><br/>
-[[view]](https://global.oup.com/academic/product/the-making-of-the-abrahamic-religions-in-late-antiquity-9780198738862?cc=us&lang=en&). 2015. Stroumsa. _The Making of the Abrahamic Religions in Late Antiquity_  
-[[view]](https://www.brepols.net/products/IS-9782503577791-1). 2015. Sanchez. _Jewish-Christianity and the Origins of Islam_  
-[[view]](https://brill.com/edcollbook/title/24122). 2015. Ahmed. _Islamic Cultures, Islamic Contexts Essays in Honor of Professor Patricia Crone_  
-[[view]](https://www.pennpress.org/9780812224023/envisioning-islam/). 2015. Penn. _Envisioning Islam Syriac Christians and the Early Muslim World_  
-[[view]](https://www.cambridge.org/core/books/nativist-prophets-of-early-islamic-iran/DE2F82C4CF6737C03D234A62B4D18F61#). 2012. Crone. _The Nativist Prophets of Early Islamic Iran_  
-[[view]](https://www.routledge.com/New-Perspectives-on-the-Quran-The-Quran-in-its-Historical/Reynolds/p/book/9781138789210#). 2011. Reynolds. _The Quran in its historical context_  
-[[view]](https://www.hup.harvard.edu/catalog.php?isbn=9780674064140). 2010. Donner. _Muhammad and the Believers_  
-[[view]](https://www.routledge.com/Writing-and-Representation-in-Medieval-Islam-Muslim-Horizons/Bray/p/book/9780415595933#). 2006. Bray. _Writing and Representation in Medieval Islam_  
-[[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/slaves-horses-evolution-islamic-polity?format=PB). 2003. Crone. _Slaves on Horses The Evolution of the Islamic Polity_  
-[[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/gods-caliph-religious-authority-first-centuries-islam?format=PB&isbn=9780521541114). 2003. Crone. _God’s Caliph Religious Authority in the First Centuries of Islam_  
-[[view]](https://www.cambridge.org/highereducation/books/the-formation-of-islam/0C58C7DC69FC4FFE20933C00B54D839F#overview). 2003. Berkey. _The Formation of Islam_  
-[[view]](https://brill.com/edcollbook/title/6753). 2000. Motzki. _The Biography of Muhammad The Issue of the Sources_  
-[view]. 1997. Hoyland. _Seeing Islam as Others Saw It_  
-[[view]](https://www.cambridge.org/core/books/roman-provincial-and-islamic-law/2096ACD8148FC23080C492300269441A). 1987. Crone. _Roman, Provincial and Islamic Law The Origins of the Islamic Patronate_  
-[view]. 1987. Crone. _Meccan Trade and the Rise of Islam_  
-[[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/hagarism-making-islamic-world). 1980. Crone. _Hagarism The Making of the Islamic World_  
+  * _Christianity_<br/><br/>
+    [[view]](https://global.oup.com/academic/product/the-new-oxford-annotated-bible-with-apocrypha-9780190276072?cc=us&lang=en&). _The Bible_ [[KJV Bible]](https://www.kingjamesbibleonline.org/)<br/><br/>
+    [[view]](https://www.harpercollins.com/products/how-jesus-became-god-bart-d-ehrman?variant=32122265632802). 2014. Ehrman. _How Jesus Became God The Exaltation of a Jewish Preacher from Galilee_  
+    [[view]](https://www.wiley.com/en-ie/The+Rise+of+Western+Christendom:+Triumph+and+Diversity,+A+D+200+1000,+10th+Anniversary+Revised+Edition-p-9781118301265). 2013. Brown. _The Rise of Western Christendom_  
+    [[view]](https://www.eerdmans.com/Products/3223/the-scepter-and-the-star.aspx). 2010. Collins. _The Scepter and the Star Messianism in Light of the Dead Sea Scrolls_  
+    [[view]](https://www.harpercollins.com/products/misquoting-jesus-bart-d-ehrman?variant=32123366801442). 2005. Ehrman. _Misquoting Jesus The History Behind the Bible_  
+    [[view]](https://global.oup.com/academic/product/lost-christianities-9780195182491?cc=us&lang=en&). 2003. Ehrman. _The Lost Christianities The Battles for Scripture and the Faiths We Never Knew_  
+    [[view]](https://global.oup.com/ushe/product/christianity-in-late-antiquity-300-450-ce-9780195154610?cc=us&lang=en&). 2003. Ehrman. _Christianity in Late Antiquity, 300-450 C.E._  
+    [[view]](https://yalebooks.yale.edu/book/9780300084573/from-jesus-to-christ/). 2000. Fredriksen. _From Jesus to Christ_  
+    [[view]](https://www.routledge.com/The-Church-of-the-East-A-Concise-History/Baum-Winkler/p/book/9780415600217#). 2000. Baum. _The Church of the East_  
+    [[view]](https://brill.com/display/title/264). 1998. Gieschen. _Angelomorphic Christology_  
 
 * **_Histories/Religions of Relevant Peoples_**<br/><br/>
   
   * _The Arabs/Muslims_<br/><br/>
-    **_The Sacred Books and Early Literature of the East_**  
-    [[view]](https://www.google.com/books/edition/The_Sacred_Books_and_Early_Literature_of/YwsOAAAAIAAJ?hl=en). Volume 5: Ancient Arabia: The Hanged Poems, The Koran (Horne, 1917)<br/><br/>
-    **_Lectures on the Religion of the Semites_**  
-    [[view]](https://www.google.com/books/edition/Lectures_on_the_Religion_of_the_Semites/WPANAQAAIAAJ?hl=en). First Series: _The Fundamental Institutions_ (Smith, 1889)
+    [[view]](https://global.oup.com/academic/product/the-quran-9780199535958?cc=us&lang=en&). _The Quran_ [[quran.com]](https://quran.com/)  
+    [[view]](https://global.oup.com/academic/product/the-life-of-muhammad-9780196360331?cc=us&lang=en&). 2002. Guillaume. _Ibn Ishaq's The Life of Muhammad_
     
+    **_The Sacred Books and Early Literature of the East_**  
+    [[view]](https://www.google.com/books/edition/The_Sacred_Books_and_Early_Literature_of/YwsOAAAAIAAJ?hl=en). Volume 5: Ancient Arabia: The Hanged Poems, The Koran (Horne, 1917)  
+
     [[view]](https://www.routledge.com/Arabia-and-the-Arabs-From-the-Bronze-Age-to-the-Coming-of-Islam/Hoyland/p/book/9780415195355#). 2001. Hoyland. _Arabia and Arabs_  
-    [[view]](https://www.google.com/books/edition/Kinship_and_Marriage_in_Early_Arabia/OJE_AQAAMAAJ?hl=en). Smith. 1907. _Kinship and Marriage in Early Arabia_  
+    [[view]](https://www.google.com/books/edition/Kinship_and_Marriage_in_Early_Arabia/OJE_AQAAMAAJ?hl=en). 1907. Smith. _Kinship and Marriage in Early Arabia_  
+    
+    **_Lectures on the Religion of the Semites_**  
+    [[view]](https://www.google.com/books/edition/Lectures_on_the_Religion_of_the_Semites/WPANAQAAIAAJ?hl=en). First Series: _The Fundamental Institutions_ (Smith, 1889)  
+
+    [[view]](https://global.oup.com/academic/product/in-gods-path-9780190618575?cc=us&lang=en&). 2017. Hoyland. _In God's Path_  
+    [[view]](https://global.oup.com/academic/product/islam-and-its-past-9780198748496?cc=us&lang=en&). 2017. Bakhos. _Islam and Its Past_  
+    
+    **_Patricia Crone's Collected Studies_**  
+    [[view]](https://brill.com/edcollbook/title/32096). Volume 1: _The Quranic Pagans and Related Matters_ (Siurua, 2016)  
+    [[view]](https://brill.com/edcollbook/title/33328). Volume 2: _The Iranian Reception of Islam: The Non-Traditionalist Strands_ (Siurua, 2016)  
+    [[view]](https://brill.com/edcollbook/title/33329). Volume 3: _Islam, the Ancient Near East and Varieties of Godlessness_ (Siurua, 2016)  
+    
+    [[view]](https://global.oup.com/academic/product/the-making-of-the-abrahamic-religions-in-late-antiquity-9780198738862?cc=us&lang=en&). 2015. Stroumsa. _The Making of the Abrahamic Religions in Late Antiquity_  
+    [[view]](https://www.brepols.net/products/IS-9782503577791-1). 2015. Sanchez. _Jewish-Christianity and the Origins of Islam_  
+    [[view]](https://brill.com/edcollbook/title/24122). 2015. Ahmed. _Islamic Cultures, Islamic Contexts Essays in Honor of Professor Patricia Crone_  
+    [[view]](https://www.pennpress.org/9780812224023/envisioning-islam/). 2015. Penn. _Envisioning Islam Syriac Christians and the Early Muslim World_  
+    [[view]](https://www.cambridge.org/core/books/nativist-prophets-of-early-islamic-iran/DE2F82C4CF6737C03D234A62B4D18F61#). 2012. Crone. _The Nativist Prophets of Early Islamic Iran_  
+    [[view]](https://www.routledge.com/New-Perspectives-on-the-Quran-The-Quran-in-its-Historical/Reynolds/p/book/9781138789210#). 2011. Reynolds. _The Quran in its historical context_  
+    [[view]](https://www.hup.harvard.edu/catalog.php?isbn=9780674064140). 2010. Donner. _Muhammad and the Believers_  
+    [[view]](https://www.routledge.com/Writing-and-Representation-in-Medieval-Islam-Muslim-Horizons/Bray/p/book/9780415595933#). 2006. Bray. _Writing and Representation in Medieval Islam_  
+    [[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/slaves-horses-evolution-islamic-polity?format=PB). 2003. Crone. _Slaves on Horses The Evolution of the Islamic Polity_  
+    [[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/gods-caliph-religious-authority-first-centuries-islam?format=PB&isbn=9780521541114). 2003. Crone. _God’s Caliph Religious Authority in the First Centuries of Islam_  
+    [[view]](https://www.cambridge.org/highereducation/books/the-formation-of-islam/0C58C7DC69FC4FFE20933C00B54D839F#overview). 2003. Berkey. _The Formation of Islam_  
+    [[view]](https://brill.com/edcollbook/title/6753). 2000. Motzki. _The Biography of Muhammad The Issue of the Sources_  
+    [view]. 1997. Hoyland. _Seeing Islam as Others Saw It_  
+    [[view]](https://www.cambridge.org/core/books/roman-provincial-and-islamic-law/2096ACD8148FC23080C492300269441A). 1987. Crone. _Roman, Provincial and Islamic Law The Origins of the Islamic Patronate_  
+    [view]. 1987. Crone. _Meccan Trade and the Rise of Islam_  
+    [[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/hagarism-making-islamic-world). 1980. Crone. _Hagarism The Making of the Islamic World_  
 
   * _The Greeks_<br/><br/>
 
@@ -231,9 +230,9 @@
     [[view]](https://global.oup.com/academic/product/the-rigveda-9780190685003?cc=us&lang=en&). 2014. Jamison. _The Rigveda_  
 
   * _The Israelites/Jews_<br/><br/>
+  [[view]](https://global.oup.com/academic/product/the-jewish-study-bible-9780199978465?cc=us&lang=en&). _The Jewish Study Bible_ [[TANAKH from Sefaria.org]](https://www.sefaria.org/texts/Tanakh) [[Torah's Sources]](https://en.wikiversity.org/wiki/Bible/King_James/Documentary_Hypothesis)<br/><br/>
   [[view]](https://www.harpercollins.com/products/the-exodus-richard-elliott-friedman?variant=32117516140578). 2017. Friedman. _The Exodus_  
   [[view]](https://global.oup.com/academic/product/jews-and-samaritans-9780190068790?cc=us&lang=en&). 2013. Knoppers. _Jews and Samaritans The Origins and History of Their Early Relations_  
-  [[view]](https://www.eerdmans.com/Products/3223/the-scepter-and-the-star.aspx). 2010. Collins. _The Scepter and the Star Messianism in Light of the Dead Sea Scrolls_  
   [[view]](https://brill.com/display/title/15593). 2009. Kartveit. _The Origin of the Samaritans_  
   [[view]](https://www.harpercollins.com/products/the-bible-with-sources-revealed-richard-elliott-friedman?variant=32207487926306). 2005. Friedman. _The Bible with Sources Revealed_  
   [[view]](https://www.eerdmans.com/Products/3972/the-early-history-of-god.aspx). 2002. Smith. _The Early History of God Yahweh and the Other Deities in Ancient Israel_  
