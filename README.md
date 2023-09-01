@@ -82,7 +82,7 @@
       
     * **_Royal Inscriptions/Reliefs_**<br/><br/>
       [[view]](https://www.google.com/books/edition/_/YPDwDQAAQBAJ?hl=en). 1953. Kent. _Old Persian_  
-    * **_Persepolis, Naqsh-i-Rajab, Naqsh-i-Rustam  [[The Persian Expedition]](https://isac.uchicago.edu/research/projects/persian-expedition)_**<br/><br/>
+    * **_Persepolis, Naqsh-i-Rustam  [[The Persian Expedition]](https://isac.uchicago.edu/research/projects/persian-expedition)_**<br/><br/>
       **_Oriental Institute Publications (OIP)_**  
       [[view]](https://isac.uchicago.edu/research/publications/oip/seals-persepolis-fortification-tablets-volume-i-images-heroic-encounter). Volume 117: 2001. Garrison. _Seals on the PFTs, Volume I: Images of Heroic Encounter_  
       [[view]](https://isac.uchicago.edu/research/publications/oip/persepolis-fortification-tablets). Volume 092: 1969. Hallock. _Persepolis Fortification Tablets_  
