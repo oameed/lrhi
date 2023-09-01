@@ -81,9 +81,7 @@
       [[view]](https://digitallibrary.un.org/record/3813174?ln=en). 1971. _Iran presents replica of Ancient Edict to United Nations_ [[Photos of the Event]](https://dam.media.un.org/CS.aspx?VP3=DamView&VBID=2AM94S60N56OZ&SMLS=1&RW=1368&RH=730&FR_=1&W=1368&H=755)  
       
     * **_Royal Inscriptions/Reliefs_**<br/><br/>
-      [[view]](https://www.google.com/books/edition/_/YPDwDQAAQBAJ?hl=en). 1953. Kent. _Old Persian_<br/><br/>
-      **_Studies in Ancient Oriental Civilization (SAOC)_**  
-      [[view]](https://isac.uchicago.edu/research/publications/saoc/saoc-5-new-inscription-xerxes-persepolis). Volume 5: 1932. Herzfeld. _A New Inscription of Xerxes from Persepolis_<br/><br/>
+      [[view]](https://www.google.com/books/edition/_/YPDwDQAAQBAJ?hl=en). 1953. Kent. _Old Persian_  
     * **_Persepolis, Naqsh-i-Rajab, Naqsh-i-Rustam  [[The Persian Expedition]](https://isac.uchicago.edu/research/projects/persian-expedition)_**<br/><br/>
       **_Oriental Institute Publications (OIP)_**      
       [[view]](https://isac.uchicago.edu/research/publications/oip/persepolis-fortification-tablets). Volume 92: 1969. Hallock. _Persepolis Fortification Tablets_  
@@ -94,7 +92,7 @@
       [[view]](https://isac.uchicago.edu/research/publications/oip/oip-65-persepolis-treasury-tablets). Volume 65: 1948. Cameron. _Persepolis Treasury Tablets_<br/><br/>
       [view]. 1941. Herzfeld. _Iran in the Ancient East_<br/><br/>
       **_Oriental Institute Communications (OIC)_**  
-      [[view]](https://isac.uchicago.edu/research/publications/oic/oic-21-treasury-persepolis-and-other-discoveries-homeland-achaemenians). Volume 21: 1939. Schmidt. _The Treasury of Persepolis and Other Discoveries_<br/><br/>
+      [[view]](https://isac.uchicago.edu/research/publications/oic/oic-21-treasury-persepolis-and-other-discoveries-homeland-achaemenians). Volume 21: 1939. Schmidt. _The Treasury of Persepolis and Other Discoveries_  
     * **_Pasargadae_**<br/><br/>
       [view]. 1978. Stronach. _Pasargadae A report on the excavations conducted by the BIPS from 1961 to 1963_  
 
