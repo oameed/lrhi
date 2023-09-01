@@ -84,7 +84,7 @@
       [[view]](https://www.google.com/books/edition/_/YPDwDQAAQBAJ?hl=en). 1953. Kent. _Old Persian_<br/><br/>
       **_Studies in Ancient Oriental Civilization (SAOC)_**  
       [[view]](https://isac.uchicago.edu/research/publications/saoc/saoc-5-new-inscription-xerxes-persepolis). Volume 5: 1932. Herzfeld. _A New Inscription of Xerxes from Persepolis_<br/><br/>
-    * **_Persepolis, Naqsh-i-Rajab, Istakhr, Naqsh-i-Rustam  [[The Persian Expedition]](https://isac.uchicago.edu/research/projects/persian-expedition)_**<br/><br/>
+    * **_Persepolis, Naqsh-i-Rajab, Naqsh-i-Rustam  [[The Persian Expedition]](https://isac.uchicago.edu/research/projects/persian-expedition)_**<br/><br/>
       **_Oriental Institute Publications (OIP)_**      
       [[view]](https://isac.uchicago.edu/research/publications/oip/persepolis-fortification-tablets). Volume 92: 1969. Hallock. _Persepolis Fortification Tablets_  
       [[view]](https://isac.uchicago.edu/research/publications/oip/aramaic-ritual-texts-persepolis). Volume 91: 1970. Bowman. _Aramaic Ritual Texts from Persepolis_  
