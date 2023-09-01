@@ -69,7 +69,7 @@
   * **_Histories_**<br/><br/>
     [[view]](https://brill.com/display/title/15559). 2009. Williams. _The Zoroastrian Myth of Migration from Iran_  
     [[view]](https://sunypress.edu/Books/S/Set-History-of-al-abari). 2007. Yarshater. _History of Al-Tabari_  
-    [[view]](https://www.penguinrandomhouse.com/books/297267/shahnameh-by-abolqasem-ferdowsi-translated-by-dick-davis-foreword-by-azar-nafisi/9781440649660/). 2006. Davis. _Ferdowsi's Shahnameh: The Persian Book of Kings_ [[Ganjoor]](https://ganjoor.net/ferdousi/shahname)  
+    [[view]](https://www.penguinrandomhouse.com/books/297267/shahnameh-by-abolqasem-ferdowsi-translated-by-dick-davis-foreword-by-azar-nafisi/9781440649660/). 2006. Davis. _Ferdowsi's Shahnameh: The Persian Book of Kings_ [[ganjoor.net]](https://ganjoor.net/ferdousi/shahname)  
 
 * **_Archaeological Sites & Artefacts_**  
   
@@ -218,10 +218,10 @@
     [[view]](https://www.google.com/books/edition/Kinship_and_Marriage_in_Early_Arabia/OJE_AQAAMAAJ?hl=en). 1907. Smith. _Kinship and Marriage in Early Arabia_  
 
   * _The Indians_<br/><br/>
-    [[view]](https://global.oup.com/academic/product/the-rigveda-9780190685003?cc=us&lang=en&). 2014. Jamison. _The Rigveda_  
+    [[view]](https://global.oup.com/academic/product/the-rigveda-9780190685003?cc=us&lang=en&). 2014. Jamison. _The Rigveda_ [[sacred-texts.com]](https://sacred-texts.com/hin/rigveda/index.htm)  
 
   * _The Israelites/Jews_<br/><br/>
-  [[view]](https://global.oup.com/academic/product/the-jewish-study-bible-9780199978465?cc=us&lang=en&). _The Jewish Study Bible_ [[TANAKH from Sefaria.org]](https://www.sefaria.org/texts/Tanakh) [[Torah's Sources]](https://en.wikiversity.org/wiki/Bible/King_James/Documentary_Hypothesis)<br/><br/>
+  [[view]](https://global.oup.com/academic/product/the-jewish-study-bible-9780199978465?cc=us&lang=en&). _The Jewish Study Bible_ [[sefaria.org]](https://www.sefaria.org/texts/Tanakh) [[Torah's Sources]](https://en.wikiversity.org/wiki/Bible/King_James/Documentary_Hypothesis)<br/><br/>
   [[view]](https://www.harpercollins.com/products/the-exodus-richard-elliott-friedman?variant=32117516140578). 2017. Friedman. _The Exodus_  
   [[view]](https://global.oup.com/academic/product/jews-and-samaritans-9780190068790?cc=us&lang=en&). 2013. Knoppers. _Jews and Samaritans The Origins and History of Their Early Relations_  
   [[view]](https://brill.com/display/title/15593). 2009. Kartveit. _The Origin of the Samaritans_  
