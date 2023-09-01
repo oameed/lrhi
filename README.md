@@ -158,7 +158,7 @@
 [view]. 1961. Zaehner. _The Dawn and Twilight of Zoroastrianism_  
 [view]. 1955. Zaehner. _Zurvan A Zoroastrian Dilemma_  
 
-* **_Religions of the Near East in late Antique Period_**<br/><br/>
+* **_Religions of the Near East in the Late Antique Period_**<br/><br/>
   * _Manichaeism_<br/><br/>
     [[view]](https://www.press.uillinois.edu/books/?id=c032783). 2008. Tardieu. _Manichaeism_  
     [[view]](https://www.cambridge.org/core/books/manichaean-texts-from-the-roman-empire/7965C563649616E9FE674E039CA275F4). 2004. Gardner. _Manichaean Texts from The Roman Empire_  
