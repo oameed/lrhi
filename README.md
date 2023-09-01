@@ -84,16 +84,14 @@
       [[view]](https://www.google.com/books/edition/_/YPDwDQAAQBAJ?hl=en). 1953. Kent. _Old Persian_  
     * **_Persepolis, Naqsh-i-Rajab, Naqsh-i-Rustam  [[The Persian Expedition]](https://isac.uchicago.edu/research/projects/persian-expedition)_**<br/><br/>
       **_Oriental Institute Publications (OIP)_**  
-      [[view]](https://isac.uchicago.edu/research/publications/oip/seals-persepolis-fortification-tablets-volume-i-images-heroic-encounter). Volume 117: 2001. Garrison. _Seals on the Persepolis Fortification Tablets, Volume I: Images of Heroic Encounter_  
-      [[view]](https://isac.uchicago.edu/research/publications/oip/persepolis-fortification-tablets). Volume 92: 1969. Hallock. _Persepolis Fortification Tablets_  
-      [[view]](https://isac.uchicago.edu/research/publications/oip/aramaic-ritual-texts-persepolis). Volume 91: 1970. Bowman. _Aramaic Ritual Texts from Persepolis_  
-      [[view]](https://isac.uchicago.edu/research/publications/oip/persepolis-iii-royal-tombs-and-other-monuments). Volume 70: 1970. Schmidt. _Persepolis III: The Royal Tombs and Other Monuments_  
-      [[view]](https://isac.uchicago.edu/research/publications/oip/oip-69-persepolis-ii-contents-treasury-and-other-discoveries). Volume 69: 1957. Schmidt. _Persepolis II: Contents of the Treasury and Other Discoveries_  
-      [[view]](https://isac.uchicago.edu/research/publications/oip/oip-68-persepolis-i-structures-reliefs-inscriptions). Volume 68: 1953. Schmidt. _Persepolis I: Structures, Reliefs, Inscriptions_  
-      [[view]](https://isac.uchicago.edu/research/publications/oip/oip-65-persepolis-treasury-tablets). Volume 65: 1948. Cameron. _Persepolis Treasury Tablets_<br/><br/>
-      [view]. 1941. Herzfeld. _Iran in the Ancient East_<br/><br/>
-      **_Oriental Institute Communications (OIC)_**  
-      [[view]](https://isac.uchicago.edu/research/publications/oic/oic-21-treasury-persepolis-and-other-discoveries-homeland-achaemenians). Volume 21: 1939. Schmidt. _The Treasury of Persepolis and Other Discoveries_  
+      [[view]](https://isac.uchicago.edu/research/publications/oip/seals-persepolis-fortification-tablets-volume-i-images-heroic-encounter). Volume 117: 2001. Garrison. _Seals on the PFTs, Volume I: Images of Heroic Encounter_  
+      [[view]](https://isac.uchicago.edu/research/publications/oip/persepolis-fortification-tablets). Volume 092: 1969. Hallock. _Persepolis Fortification Tablets_  
+      [[view]](https://isac.uchicago.edu/research/publications/oip/aramaic-ritual-texts-persepolis). Volume 091: 1970. Bowman. _Aramaic Ritual Texts from Persepolis_  
+      [[view]](https://isac.uchicago.edu/research/publications/oip/persepolis-iii-royal-tombs-and-other-monuments). Volume 070: 1970. Schmidt. _Persepolis III: The Royal Tombs and Other Monuments_  
+      [[view]](https://isac.uchicago.edu/research/publications/oip/oip-69-persepolis-ii-contents-treasury-and-other-discoveries). Volume 069: 1957. Schmidt. _Persepolis II: Contents of the Treasury and Other Discoveries_  
+      [[view]](https://isac.uchicago.edu/research/publications/oip/oip-68-persepolis-i-structures-reliefs-inscriptions). Volume 068: 1953. Schmidt. _Persepolis I: Structures, Reliefs, Inscriptions_  
+      [[view]](https://isac.uchicago.edu/research/publications/oip/oip-65-persepolis-treasury-tablets). Volume 065: 1948. Cameron. _Persepolis Treasury Tablets_  
+      
     * **_Pasargadae_**<br/><br/>
       [view]. 1978. Stronach. _Pasargadae A report on the excavations conducted by the BIPS from 1961 to 1963_  
 
