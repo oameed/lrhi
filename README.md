@@ -189,13 +189,7 @@
     
     **_The Sacred Books and Early Literature of the East_**  
     [[view]](https://www.google.com/books/edition/The_Sacred_Books_and_Early_Literature_of/YwsOAAAAIAAJ?hl=en). Volume 5: Ancient Arabia: The Hanged Poems, The Koran (Horne, 1917)  
-
-    [[view]](https://www.routledge.com/Arabia-and-the-Arabs-From-the-Bronze-Age-to-the-Coming-of-Islam/Hoyland/p/book/9780415195355#). 2001. Hoyland. _Arabia and Arabs_  
-    [[view]](https://www.google.com/books/edition/Kinship_and_Marriage_in_Early_Arabia/OJE_AQAAMAAJ?hl=en). 1907. Smith. _Kinship and Marriage in Early Arabia_  
-    
-    **_Lectures on the Religion of the Semites_**  
-    [[view]](https://www.google.com/books/edition/Lectures_on_the_Religion_of_the_Semites/WPANAQAAIAAJ?hl=en). First Series: _The Fundamental Institutions_ (Smith, 1889)  
-
+        
     [[view]](https://global.oup.com/academic/product/in-gods-path-9780190618575?cc=us&lang=en&). 2017. Hoyland. _In God's Path_  
     [[view]](https://global.oup.com/academic/product/islam-and-its-past-9780198748496?cc=us&lang=en&). 2017. Bakhos. _Islam and Its Past_  
     
@@ -215,11 +209,13 @@
     [[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/slaves-horses-evolution-islamic-polity?format=PB). 2003. Crone. _Slaves on Horses The Evolution of the Islamic Polity_  
     [[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/gods-caliph-religious-authority-first-centuries-islam?format=PB&isbn=9780521541114). 2003. Crone. _God’s Caliph Religious Authority in the First Centuries of Islam_  
     [[view]](https://www.cambridge.org/highereducation/books/the-formation-of-islam/0C58C7DC69FC4FFE20933C00B54D839F#overview). 2003. Berkey. _The Formation of Islam_  
+    [[view]](https://www.routledge.com/Arabia-and-the-Arabs-From-the-Bronze-Age-to-the-Coming-of-Islam/Hoyland/p/book/9780415195355#). 2001. Hoyland. _Arabia and Arabs_  
     [[view]](https://brill.com/edcollbook/title/6753). 2000. Motzki. _The Biography of Muhammad The Issue of the Sources_  
     [view]. 1997. Hoyland. _Seeing Islam as Others Saw It_  
     [[view]](https://www.cambridge.org/core/books/roman-provincial-and-islamic-law/2096ACD8148FC23080C492300269441A). 1987. Crone. _Roman, Provincial and Islamic Law The Origins of the Islamic Patronate_  
     [view]. 1987. Crone. _Meccan Trade and the Rise of Islam_  
     [[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/hagarism-making-islamic-world). 1980. Crone. _Hagarism The Making of the Islamic World_  
+    [[view]](https://www.google.com/books/edition/Kinship_and_Marriage_in_Early_Arabia/OJE_AQAAMAAJ?hl=en). 1907. Smith. _Kinship and Marriage in Early Arabia_  
 
   * _The Greeks_<br/><br/>
 
@@ -236,7 +232,9 @@
   [[view]](https://global.oup.com/academic/product/the-origins-of-biblical-monotheism-9780195167689?cc=us&lang=en&). 2001. Smith. _The Origins of Biblical Monotheism Israel's Polytheistic Background and the Ugaritic Texts_  
   [[view]](https://www.bloomsbury.com/us/samaritans-and-early-judaism-9780567260468/). 2000. Hjelm. _The Samaritans and Early Judaism A Literary Analysis_  
   [[view]](https://www.simonandschuster.com/books/Who-Wrote-the-Bible/Richard-Friedman/9781501192401). 1997. Friedman. _Who Wrote the Bible_  
-  [[view]](https://www.penguinrandomhouse.com/books/56381/moses-and-monotheism-by-sigmund-freud/). 1939. Freud. _Moses and Monotheism_  
+  [[view]](https://www.penguinrandomhouse.com/books/56381/moses-and-monotheism-by-sigmund-freud/). 1939. Freud. _Moses and Monotheism_<br/><br/>
+  **_Lectures on the Religion of the Semites_**  
+    [[view]](https://www.google.com/books/edition/Lectures_on_the_Religion_of_the_Semites/WPANAQAAIAAJ?hl=en). First Series: _The Fundamental Institutions_ (Smith, 1889)  
   
   * _The Romans_<br/><br/>
       
