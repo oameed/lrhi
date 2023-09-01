@@ -64,27 +64,27 @@
     [[view]](https://www.google.com/books/edition/The_Sacred_Books_and_Early_Literature_of/LJAOAQAAIAAJ?hl=en). Volume 7: Ancient Persia (Horne, 1917)  
     
     [[view]](https://global.oup.com/academic/product/the-bundahin-9780190879044?cc=us&lang=en&#). 2020. Agostini. _The Bundahisn The Zoroastrian Book of Creation_  
-    [view]. 1956. Anklesaria. _Zand Akasih The Iranian (Greater) Bundahisn_ [[avesta.org]](http://www.avesta.org/mp/grb.pdf)  
+    [view]. 1956. Anklesaria. _Zand Akasih The Iranian (Greater) Bundahisn_ [[avesta.org]](http://www.avesta.org/mp/grb.pdf)
     
-  * **_Histories_**  
+  * **_Histories_**<br/><br/>
     [[view]](https://brill.com/display/title/15559). 2009. Williams. _The Zoroastrian Myth of Migration from Iran_  
     [[view]](https://sunypress.edu/Books/S/Set-History-of-al-abari). 2007. Yarshater. _History of Al-Tabari_  
     [[view]](https://www.penguinrandomhouse.com/books/297267/shahnameh-by-abolqasem-ferdowsi-translated-by-dick-davis-foreword-by-azar-nafisi/9781440649660/). 2006. Davis. _Ferdowsi's Shahnameh: The Persian Book of Kings_ [[Ganjoor]](https://ganjoor.net/ferdousi/shahname)  
 
 * **_Archaeological Sites & Artefacts_**  
   
-  * **_The Achaemenid and Sassanid Periods_**<br/><br/>
-    * [**_The Cyrus Cylinder_**](https://www.britishmuseum.org/collection/object/W_1880-0617-1941)  
+  * **_The Achaemenid and Sassanid Periods_**  
+    * [**_The Cyrus Cylinder_**](https://www.britishmuseum.org/collection/object/W_1880-0617-1941)<br/><br/>
       [[view]](https://www.eisenbrauns.org/books/titles/978-1-57506-135-1.html). 2007. Kuhrt. _Cyrus the Great of Persia Images and Realities_  
       [[view]](https://www.cambridge.org/core/journals/cambridge-classical-journal/article/abs/achaemenid-empire-a-babylonian-perspective/F7F04CE323B994B1F79A0AC7F4858AC4). 1988. Kuhrt. _The Achaemenid Empire a Babylonian Perspective_
       
       [[view]](https://digitallibrary.un.org/record/3813174?ln=en). 1971. _Iran presents replica of Ancient Edict to United Nations_ [[Photos of the Event]](https://dam.media.un.org/CS.aspx?VP3=DamView&VBID=2AM94S60N56OZ&SMLS=1&RW=1368&RH=730&FR_=1&W=1368&H=755)  
       
-    * **_Royal Inscriptions_**<br/><br/>
+    * **_Royal Inscriptions/Reliefs_**<br/><br/>
       [[view]](https://www.google.com/books/edition/_/YPDwDQAAQBAJ?hl=en). 1953. Kent. _Old Persian_<br/><br/>
       **_Studies in Ancient Oriental Civilization (SAOC)_**  
       [[view]](https://isac.uchicago.edu/research/publications/saoc/saoc-5-new-inscription-xerxes-persepolis). Volume 5: 1932. Herzfeld. _A New Inscription of Xerxes from Persepolis_<br/><br/>
-    * **_Persepolis, Naqsh-i-Rustam, Naqsh-i-Rajab [[The Persian Expedition]](https://isac.uchicago.edu/research/projects/persian-expedition)_**<br/><br/>
+    * **_Persepolis, Naqsh-i-Rajab, Istakhr, Naqsh-i-Rustam  [[The Persian Expedition]](https://isac.uchicago.edu/research/projects/persian-expedition)_**<br/><br/>
       **_Oriental Institute Publications (OIP)_**      
       [[view]](https://isac.uchicago.edu/research/publications/oip/persepolis-fortification-tablets). Volume 92: 1969. Hallock. _Persepolis Fortification Tablets_  
       [[view]](https://isac.uchicago.edu/research/publications/oip/aramaic-ritual-texts-persepolis). Volume 91: 1970. Bowman. _Aramaic Ritual Texts from Persepolis_  
@@ -161,12 +161,12 @@
 [view]. 1961. Zaehner. _The Dawn and Twilight of Zoroastrianism_  
 [view]. 1955. Zaehner. _Zurvan A Zoroastrian Dilemma_  
 
-* **_Religions of the Near East_**<br/>
-  * _Manichaeism_  
+* **_Religions of the Near East in late Antique Period_**<br/><br/>
+  * _Manichaeism_<br/><br/>
     [[view]](https://www.press.uillinois.edu/books/?id=c032783). 2008. Tardieu. _Manichaeism_  
     [[view]](https://www.cambridge.org/core/books/manichaean-texts-from-the-roman-empire/7965C563649616E9FE674E039CA275F4). 2004. Gardner. _Manichaean Texts from The Roman Empire_  
 
-  * _Gnosticism_  
+  * _Gnosticism_<br/><br/>
     [[view]](https://www.hup.harvard.edu/catalog.php?isbn=9780674066038). 2010. Brakke. _The Gnostics_  
     [[view]](https://blackwells.co.uk/bookshop/product/Gnosticism-by-Stephan-A-Hoeller/9780835608169). 2002. Hoeller. _Gnosticism_  
     [[view]](https://www.penguinrandomhouse.com/books/206189/the-gnostic-religion-by-hans-jonas/). 2001. Jonas. _The Gnostic Religion_  
