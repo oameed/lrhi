@@ -217,8 +217,6 @@
     [[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/hagarism-making-islamic-world). 1980. Crone. _Hagarism The Making of the Islamic World_  
     [[view]](https://www.google.com/books/edition/Kinship_and_Marriage_in_Early_Arabia/OJE_AQAAMAAJ?hl=en). 1907. Smith. _Kinship and Marriage in Early Arabia_  
 
-  * _The Greeks_<br/><br/>
-
   * _The Indians_<br/><br/>
     [[view]](https://global.oup.com/academic/product/the-rigveda-9780190685003?cc=us&lang=en&). 2014. Jamison. _The Rigveda_  
 
@@ -237,6 +235,6 @@
     [[view]](https://www.google.com/books/edition/Lectures_on_the_Religion_of_the_Semites/WPANAQAAIAAJ?hl=en). First Series: _The Fundamental Institutions_ (Smith, 1889)  
   
   * _The Romans_<br/><br/>
-      
+    [[view]](https://www.cambridge.org/us/universitypress/subjects/classical-studies/ancient-history/ancient-rome-military-and-political-history?format=HB&isbn=9780521809184). 2005. Mackay. _Ancient Rome A Military and Political History_  
   
   
