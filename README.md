@@ -131,11 +131,6 @@
 [[view]](https://www.routledge.com/The-Ancient-Near-East-c3000330-BC-2-volumes/Kuhrt/p/book/9780415167628#). 1997. Kuhrt. _The Ancient Near East c. 3000-330 BC_  
 [[view]](https://www.tandfonline.com/doi/abs/10.1080/05786967.1967.11834760). 1967. Young. _The Iranian Migration Into the Zagros_  
 
-* **_The Indo-Europeans_**<br/><br/>
-[[view]](https://www.oxbowbooks.com/oxbow/tracing-the-indo-europeans.html). 2019. Olsen. _Tracing the Indo-Europeans_  
-[[view]](https://press.princeton.edu/books/paperback/9780691148182/the-horse-the-wheel-and-language). 2007. Anthony. _The Horse, Wheel and Language_  
-[view]. 1991. 1991. Mallory. _In Search of the Indo Europeans_  
-
 * **_Political History of Persia/Eranshahr_**<br/><br/>
 [[view]](https://www.ucpress.edu/book/9780520292451/a-state-of-mixture). 2015. Payne. _A State of Mixture Christians Zoroastrians and Iranian Political Culture in Late Antiquity_  
 [view]. 2012. Curtis. _The Parthian and Early Sasanian Empires_  
@@ -220,6 +215,11 @@
   * _The Indians_<br/><br/>
     [[view]](https://global.oup.com/academic/product/the-rigveda-9780190685003?cc=us&lang=en&). 2014. Jamison. _The Rigveda_ [[sacred-texts.com]](https://sacred-texts.com/hin/rigveda/index.htm)  
 
+  * _The Indo-Europeans_<br/><br/>
+    [[view]](https://www.oxbowbooks.com/oxbow/tracing-the-indo-europeans.html). 2019. Olsen. _Tracing the Indo-Europeans_  
+    [[view]](https://press.princeton.edu/books/paperback/9780691148182/the-horse-the-wheel-and-language). 2007. Anthony. _The Horse, Wheel and Language_  
+    [view]. 1991. 1991. Mallory. _In Search of the Indo Europeans_  
+  
   * _The Israelites/Jews_<br/><br/>
   [[view]](https://global.oup.com/academic/product/the-jewish-study-bible-9780199978465?cc=us&lang=en&). _The Jewish Study Bible_ [[sefaria.org]](https://www.sefaria.org/texts/Tanakh) [[Torah's Sources]](https://en.wikiversity.org/wiki/Bible/King_James/Documentary_Hypothesis)<br/><br/>
   [[view]](https://www.harpercollins.com/products/the-exodus-richard-elliott-friedman?variant=32117516140578). 2017. Friedman. _The Exodus_  
