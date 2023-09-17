@@ -146,7 +146,8 @@
 [[view]](https://brill.com/display/title/1973). Volume 1: _The Early Period_ (Boyce, 1975)  
 [[view]](https://brill.com/display/title/17838). Volume 2: _Zoroastrianism under the Achaemenians_ (Boyce, 1982)  
 [[view]](https://brill.com/display/title/17839). Volume 3: _Zoroastrianism under Macedonian and Roman Rule_ (Boyce, 1991)<br/><br/>
-[[view]](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118785539). 2015. Stausberg. _The Wiley Blackwell Companion to Zoroastrianism_   
+[[view]](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118785539). 2015. Stausberg. _The Wiley Blackwell Companion to Zoroastrianism_  
+[[view]](https://utpress.utexas.edu/9780292747678/). 2012. Forrest. _Witches, Whores, and Sorcerers The Concept of Evil in Early Iran_  
 [view]. 1992. Boyce. _Zoroastrianism. Its Antiquity and Constant Vigour_  
 [[view]](https://www.upress.umn.edu/book-division/books/an-introduction-to-ancient-iranian-religion). 1983. Malandra. _An Introduction to Ancient Iranian Religion_  
 [view]. 1977. Boyce. _A Persian Stronghold of Zoroastrianism_  
@@ -154,6 +155,7 @@
 [view]. 1955. Zaehner. _Zurvan A Zoroastrian Dilemma_  
 
 * **_The Religion of Iran: Shiism_**<br/><br/>
+  [[view]](https://www.cambridge.org/core/books/agents-of-the-hidden-imam/298209604B1E3006CDEB6E30E28CE1DD). 2022. Hayes. _Agents of the Hidden Imam_  
   [[view]](https://www.cambridge.org/core/books/nativist-prophets-of-early-islamic-iran/DE2F82C4CF6737C03D234A62B4D18F61#). 2012. Crone. _The Nativist Prophets of Early Islamic Iran_  
   
   **_The Formation of the Classical Islamic World_**  
@@ -205,6 +207,7 @@
     [[view]](https://global.oup.com/academic/product/the-making-of-the-abrahamic-religions-in-late-antiquity-9780198738862?cc=us&lang=en&). 2015. Stroumsa. _The Making of the Abrahamic Religions in Late Antiquity_  
     [[view]](https://www.brepols.net/products/IS-9782503577791-1). 2015. Sanchez. _Jewish-Christianity and the Origins of Islam_  
     [[view]](https://brill.com/edcollbook/title/24122). 2015. Ahmed. _Islamic Cultures, Islamic Contexts Essays in Honor of Professor Patricia Crone_  
+    [[view]](https://www.ucpress.edu/book/9780520284944/when-christians-first-met-muslims). 2015. Penn. _When Christians first met Muslims_  
     [[view]](https://www.pennpress.org/9780812224023/envisioning-islam/). 2015. Penn. _Envisioning Islam Syriac Christians and the Early Muslim World_  
     [[view]](https://www.routledge.com/New-Perspectives-on-the-Quran-The-Quran-in-its-Historical/Reynolds/p/book/9781138789210#). 2011. Reynolds. _The Quran in its historical context_  
     [[view]](https://www.hup.harvard.edu/catalog.php?isbn=9780674064140). 2010. Donner. _Muhammad and the Believers_  
@@ -253,5 +256,10 @@
   
   * _The Romans_<br/><br/>
     [[view]](https://www.cambridge.org/us/universitypress/subjects/classical-studies/ancient-history/ancient-rome-military-and-political-history?format=HB&isbn=9780521809184). 2005. Mackay. _Ancient Rome A Military and Political History_  
+
+  * _The Syriacs_<br/><br/>
+    [[view]](https://www.ucpress.edu/book/9780520299207/invitation-to-syriac-christianity). 2022. Penn. _Invitation to Syriac Christianity An Anthology_  
+    [[view]](https://www.routledge.com/The-Syriac-World/King/p/book/9780367732363). 2018. King. _The Syriac World_  
+
   
   
