@@ -153,6 +153,9 @@
 [view]. 1961. Zaehner. _The Dawn and Twilight of Zoroastrianism_  
 [view]. 1955. Zaehner. _Zurvan A Zoroastrian Dilemma_  
 
+* **_The Religion of Iran: Shiism_**<br/><br/>
+[[view]](https://www.cambridge.org/core/books/nativist-prophets-of-early-islamic-iran/DE2F82C4CF6737C03D234A62B4D18F61#). 2012. Crone. _The Nativist Prophets of Early Islamic Iran_  
+
 * **_Religions of the Near East in the Late Antique Period_**<br/><br/>
   * _Manichaeism_<br/><br/>
     [[view]](https://www.press.uillinois.edu/books/?id=c032783). 2008. Tardieu. _Manichaeism_  
@@ -197,7 +200,6 @@
     [[view]](https://www.brepols.net/products/IS-9782503577791-1). 2015. Sanchez. _Jewish-Christianity and the Origins of Islam_  
     [[view]](https://brill.com/edcollbook/title/24122). 2015. Ahmed. _Islamic Cultures, Islamic Contexts Essays in Honor of Professor Patricia Crone_  
     [[view]](https://www.pennpress.org/9780812224023/envisioning-islam/). 2015. Penn. _Envisioning Islam Syriac Christians and the Early Muslim World_  
-    [[view]](https://www.cambridge.org/core/books/nativist-prophets-of-early-islamic-iran/DE2F82C4CF6737C03D234A62B4D18F61#). 2012. Crone. _The Nativist Prophets of Early Islamic Iran_  
     [[view]](https://www.routledge.com/New-Perspectives-on-the-Quran-The-Quran-in-its-Historical/Reynolds/p/book/9781138789210#). 2011. Reynolds. _The Quran in its historical context_  
     [[view]](https://www.hup.harvard.edu/catalog.php?isbn=9780674064140). 2010. Donner. _Muhammad and the Believers_  
     [[view]](https://www.routledge.com/Writing-and-Representation-in-Medieval-Islam-Muslim-Horizons/Bray/p/book/9780415595933#). 2006. Bray. _Writing and Representation in Medieval Islam_  
