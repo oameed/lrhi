@@ -154,8 +154,14 @@
 [view]. 1955. Zaehner. _Zurvan A Zoroastrian Dilemma_  
 
 * **_The Religion of Iran: Shiism_**<br/><br/>
-[[view]](https://www.cambridge.org/core/books/nativist-prophets-of-early-islamic-iran/DE2F82C4CF6737C03D234A62B4D18F61#). 2012. Crone. _The Nativist Prophets of Early Islamic Iran_  
-
+  [[view]](https://www.cambridge.org/core/books/nativist-prophets-of-early-islamic-iran/DE2F82C4CF6737C03D234A62B4D18F61#). 2012. Crone. _The Nativist Prophets of Early Islamic Iran_  
+  
+  **_The Formation of the Classical Islamic World_**  
+  [[view]](https://www.routledge.com/Shiism/Kohlberg/p/book/9780860787105). Volume 33: _Shiism_ (Kohlberg, 2003)  
+  
+  [[view]](https://onlinelibrary.wiley.com/doi/10.1111/j.1478-1913.1998.tb03653.x). 1998. Buckley. _On the Origins of Shia Hadith_  
+  [[view]](https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/from-imamiyya-to-ithnaashariyya/32F60507F79BEE8C3732011F4D092CAF). 1976. Kohlberg. _From Imamiyya to Ithna-ashariyya_  
+  
 * **_Religions of the Near East in the Late Antique Period_**<br/><br/>
   * _Christianity_<br/><br/>
     [[view]](https://global.oup.com/academic/product/the-new-oxford-annotated-bible-with-apocrypha-9780190276072?cc=us&lang=en&). _The Bible_ [[KJV Bible]](https://www.kingjamesbibleonline.org/)<br/><br/>
@@ -186,7 +192,7 @@
     [[view]](https://global.oup.com/academic/product/the-life-of-muhammad-9780196360331?cc=us&lang=en&). 2002. Guillaume. _Ibn Ishaq's The Life of Muhammad_
     
     **_The Sacred Books and Early Literature of the East_**  
-    [[view]](https://www.google.com/books/edition/The_Sacred_Books_and_Early_Literature_of/YwsOAAAAIAAJ?hl=en). Volume 5: Ancient Arabia: The Hanged Poems, The Koran (Horne, 1917)  
+    [[view]](https://www.google.com/books/edition/The_Sacred_Books_and_Early_Literature_of/YwsOAAAAIAAJ?hl=en). Volume 5: _Ancient Arabia: The Hanged Poems, The Koran_ (Horne, 1917)  
         
     [[view]](https://global.oup.com/academic/product/in-gods-path-9780190618575?cc=us&lang=en&). 2017. Hoyland. _In God's Path_  
     [[view]](https://global.oup.com/academic/product/islam-and-its-past-9780198748496?cc=us&lang=en&). 2017. Bakhos. _Islam and Its Past_  
@@ -203,6 +209,10 @@
     [[view]](https://www.routledge.com/New-Perspectives-on-the-Quran-The-Quran-in-its-Historical/Reynolds/p/book/9781138789210#). 2011. Reynolds. _The Quran in its historical context_  
     [[view]](https://www.hup.harvard.edu/catalog.php?isbn=9780674064140). 2010. Donner. _Muhammad and the Believers_  
     [[view]](https://www.routledge.com/Writing-and-Representation-in-Medieval-Islam-Muslim-Horizons/Bray/p/book/9780415595933#). 2006. Bray. _Writing and Representation in Medieval Islam_  
+    
+    **_The Formation of the Classical Islamic World_**  
+    [[view]](https://www.routledge.com/Hadith-Origins-and-Developments/Motzki/p/book/9781138247796). Volume 28: _Hadith Origins and Developments_ (Motzki, 2004)  
+    
     [[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/slaves-horses-evolution-islamic-polity?format=PB). 2003. Crone. _Slaves on Horses The Evolution of the Islamic Polity_  
     [[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/gods-caliph-religious-authority-first-centuries-islam?format=PB&isbn=9780521541114). 2003. Crone. _God’s Caliph Religious Authority in the First Centuries of Islam_  
     [[view]](https://www.cambridge.org/highereducation/books/the-formation-of-islam/0C58C7DC69FC4FFE20933C00B54D839F#overview). 2003. Berkey. _The Formation of Islam_  
