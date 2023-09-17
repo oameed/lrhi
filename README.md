@@ -157,16 +157,6 @@
 [[view]](https://www.cambridge.org/core/books/nativist-prophets-of-early-islamic-iran/DE2F82C4CF6737C03D234A62B4D18F61#). 2012. Crone. _The Nativist Prophets of Early Islamic Iran_  
 
 * **_Religions of the Near East in the Late Antique Period_**<br/><br/>
-  * _Manichaeism_<br/><br/>
-    [[view]](https://www.press.uillinois.edu/books/?id=c032783). 2008. Tardieu. _Manichaeism_  
-    [[view]](https://www.cambridge.org/core/books/manichaean-texts-from-the-roman-empire/7965C563649616E9FE674E039CA275F4). 2004. Gardner. _Manichaean Texts from The Roman Empire_  
-
-  * _Gnosticism_<br/><br/>
-    [[view]](https://www.hup.harvard.edu/catalog.php?isbn=9780674066038). 2010. Brakke. _The Gnostics_  
-    [[view]](https://blackwells.co.uk/bookshop/product/Gnosticism-by-Stephan-A-Hoeller/9780835608169). 2002. Hoeller. _Gnosticism_  
-    [[view]](https://www.penguinrandomhouse.com/books/206189/the-gnostic-religion-by-hans-jonas/). 2001. Jonas. _The Gnostic Religion_  
-    [[view]](https://www.harpercollins.com/products/gnosis-kurt-rudolph?variant=32117955657762). 1987. Rudolph. _Gnosis The Nature and History of Gnosticism_  
-
   * _Christianity_<br/><br/>
     [[view]](https://global.oup.com/academic/product/the-new-oxford-annotated-bible-with-apocrypha-9780190276072?cc=us&lang=en&). _The Bible_ [[KJV Bible]](https://www.kingjamesbibleonline.org/)<br/><br/>
     [[view]](https://www.harpercollins.com/products/how-jesus-became-god-bart-d-ehrman?variant=32122265632802). 2014. Ehrman. _How Jesus Became God The Exaltation of a Jewish Preacher from Galilee_  
@@ -177,7 +167,17 @@
     [[view]](https://global.oup.com/ushe/product/christianity-in-late-antiquity-300-450-ce-9780195154610?cc=us&lang=en&). 2003. Ehrman. _Christianity in Late Antiquity, 300-450 C.E._  
     [[view]](https://yalebooks.yale.edu/book/9780300084573/from-jesus-to-christ/). 2000. Fredriksen. _From Jesus to Christ_  
     [[view]](https://www.routledge.com/The-Church-of-the-East-A-Concise-History/Baum-Winkler/p/book/9780415600217#). 2000. Baum. _The Church of the East_  
-    [[view]](https://brill.com/display/title/264). 1998. Gieschen. _Angelomorphic Christology_  
+    [[view]](https://brill.com/display/title/264). 1998. Gieschen. _Angelomorphic Christology_
+    
+  * _Gnosticism_<br/><br/>
+    [[view]](https://www.hup.harvard.edu/catalog.php?isbn=9780674066038). 2010. Brakke. _The Gnostics_  
+    [[view]](https://blackwells.co.uk/bookshop/product/Gnosticism-by-Stephan-A-Hoeller/9780835608169). 2002. Hoeller. _Gnosticism_  
+    [[view]](https://www.penguinrandomhouse.com/books/206189/the-gnostic-religion-by-hans-jonas/). 2001. Jonas. _The Gnostic Religion_  
+    [[view]](https://www.harpercollins.com/products/gnosis-kurt-rudolph?variant=32117955657762). 1987. Rudolph. _Gnosis The Nature and History of Gnosticism_
+    
+  * _Manichaeism_<br/><br/>
+    [[view]](https://www.press.uillinois.edu/books/?id=c032783). 2008. Tardieu. _Manichaeism_  
+    [[view]](https://www.cambridge.org/core/books/manichaean-texts-from-the-roman-empire/7965C563649616E9FE674E039CA275F4). 2004. Gardner. _Manichaean Texts from The Roman Empire_  
 
 * **_Histories/Religions of Relevant Peoples_**<br/><br/>
   
