@@ -210,7 +210,12 @@
     [[view]](https://www.cambridge.org/core/books/roman-provincial-and-islamic-law/2096ACD8148FC23080C492300269441A). 1987. Crone. _Roman, Provincial and Islamic Law The Origins of the Islamic Patronate_  
     [view]. 1987. Crone. _Meccan Trade and the Rise of Islam_  
     [[view]](https://www.cambridge.org/tc/academic/subjects/history/middle-east-history/hagarism-making-islamic-world). 1980. Crone. _Hagarism The Making of the Islamic World_  
+
+    [[view]](https://www.gorgiaspress.com/mohammed-and-islam). 1917. Goldziher. _Mohammed and Islam_  
+    [[view]](https://press.princeton.edu/books/paperback/9780691100999/introduction-to-islamic-theology-and-law). 1910. Goldziher. _Introduction to Islamic Theology and Law_  
     [[view]](https://www.google.com/books/edition/Kinship_and_Marriage_in_Early_Arabia/OJE_AQAAMAAJ?hl=en). 1907. Smith. _Kinship and Marriage in Early Arabia_  
+    [view]. 1890. Goldziher. _Muslim Studies_  
+    
 
   * _The Indians_<br/><br/>
     [[view]](https://global.oup.com/academic/product/the-rigveda-9780190685003?cc=us&lang=en&). 2014. Jamison. _The Rigveda_ [[sacred-texts.com]](https://sacred-texts.com/hin/rigveda/index.htm)  
