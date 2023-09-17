@@ -132,14 +132,17 @@
 [[view]](https://www.tandfonline.com/doi/abs/10.1080/05786967.1967.11834760). 1967. Young. _The Iranian Migration Into the Zagros_  
 
 * **_Political History of Persia/Eranshahr_**<br/><br/>
-[[view]](https://www.ucpress.edu/book/9780520292451/a-state-of-mixture). 2015. Payne. _A State of Mixture Christians Zoroastrians and Iranian Political Culture in Late Antiquity_  
-[view]. 2012. Curtis. _The Parthian and Early Sasanian Empires_  
-[[view]](https://www.routledge.com/The-Persian-Empire-A-Corpus-of-Sources-from-the-Achaemenid-Period/Kuhrt/p/book/9780415436281). 2010. Kuhrt. _The Persian Empire A Corpus of Sources from the Achaemenid Period_  
-[[view]](https://www.ucpress.edu/book/9780520294837/the-two-eyes-of-the-earth). 2010. Canepa. _The Two Eyes of the Earth, Art and Ritual of Kingship between Rome and Sasanian Iran_  
-[[view]](https://www.bloomsbury.com/us/decline-and-fall-of-the-sasanian-empire-9781784537470/). 2008. Pourshariati. _Decline and Fall of the Sasanian Empire_  
-[[view]](https://www.eisenbrauns.org/books/titles/978-1-57506-031-6.html). 2002. Briant. _From Cyrus to Alexander_  
-[view]. 1993. SherwinWhite. Kuhrt. _From Samarkhand to Sardis A New Approach to the Seleucid Empire_  
-[view]. 1989. Gnoli. _The Idea of Iran an Essay on its Origin_  
+  **_The Oxford History of the Ancient Near East_**  
+  [[view]](https://global.oup.com/academic/product/the-oxford-history-of-the-ancient-near-east-9780190687663?cc=us&lang=en&). Volume 5: _The Age of Persia_ (Potts, 2023)
+  
+  [[view]](https://www.ucpress.edu/book/9780520292451/a-state-of-mixture). 2015. Payne. _A State of Mixture Christians Zoroastrians and Iranian Political Culture in Late Antiquity_  
+  [view]. 2012. Curtis. _The Parthian and Early Sasanian Empires_  
+  [[view]](https://www.routledge.com/The-Persian-Empire-A-Corpus-of-Sources-from-the-Achaemenid-Period/Kuhrt/p/book/9780415436281). 2010. Kuhrt. _The Persian Empire A Corpus of Sources from the Achaemenid Period_  
+  [[view]](https://www.ucpress.edu/book/9780520294837/the-two-eyes-of-the-earth). 2010. Canepa. _The Two Eyes of the Earth, Art and Ritual of Kingship between Rome and Sasanian Iran_  
+  [[view]](https://www.bloomsbury.com/us/decline-and-fall-of-the-sasanian-empire-9781784537470/). 2008. Pourshariati. _Decline and Fall of the Sasanian Empire_  
+  [[view]](https://www.eisenbrauns.org/books/titles/978-1-57506-031-6.html). 2002. Briant. _From Cyrus to Alexander_  
+  [view]. 1993. SherwinWhite. Kuhrt. _From Samarkhand to Sardis A New Approach to the Seleucid Empire_  
+  [view]. 1989. Gnoli. _The Idea of Iran an Essay on its Origin_  
 
 * **_The Religion of Eranshahr: Zoroastrianism_**<br/><br/>
 **_A History of Zoroastrianism_**  
@@ -174,7 +177,6 @@
     [[view]](https://global.oup.com/academic/product/lost-christianities-9780195182491?cc=us&lang=en&). 2003. Ehrman. _The Lost Christianities The Battles for Scripture and the Faiths We Never Knew_  
     [[view]](https://global.oup.com/ushe/product/christianity-in-late-antiquity-300-450-ce-9780195154610?cc=us&lang=en&). 2003. Ehrman. _Christianity in Late Antiquity, 300-450 C.E._  
     [[view]](https://yalebooks.yale.edu/book/9780300084573/from-jesus-to-christ/). 2000. Fredriksen. _From Jesus to Christ_  
-    [[view]](https://www.routledge.com/The-Church-of-the-East-A-Concise-History/Baum-Winkler/p/book/9780415600217#). 2000. Baum. _The Church of the East_  
     [[view]](https://brill.com/display/title/264). 1998. Gieschen. _Angelomorphic Christology_
     
   * _Gnosticism_<br/><br/>
@@ -260,6 +262,7 @@
   * _The Syriacs_<br/><br/>
     [[view]](https://www.ucpress.edu/book/9780520299207/invitation-to-syriac-christianity). 2022. Penn. _Invitation to Syriac Christianity An Anthology_  
     [[view]](https://www.routledge.com/The-Syriac-World/King/p/book/9780367732363). 2018. King. _The Syriac World_  
+    [[view]](https://www.routledge.com/The-Church-of-the-East-A-Concise-History/Baum-Winkler/p/book/9780415600217#). 2000. Baum. _The Church of the East_  
 
   
   
