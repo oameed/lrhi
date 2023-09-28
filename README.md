@@ -102,7 +102,29 @@
 
 ## Encyclopaedias & Dictionaries  
 
+* [**_A Companion to the Archaeology of the Ancient Near East_** ](https://www.wiley.com/en-us/A+Companion+to+the+Archaeology+of+the+Ancient+Near+East-p-9781405189880)  
+
+* **_The New Cambridge History of Islam_**  
+[_Volume 1: The Formation of the Islamic World, Sixth to Eleventh Centuries_](https://www.cambridge.org/core/books/new-cambridge-history-of-islam/F5168228014274EAA4D7DCDB25627720)  
+[_Volume 2: The Western Islamic World, Eleventh to Eighteenth Centuries_](https://www.cambridge.org/core/books/new-cambridge-history-of-islam/CAEA752E397DC65D731D28B4E64AE760)  
+[_Volume 3: The Eastern Islamic World, Eleventh to Eighteenth Centuries_](https://www.cambridge.org/core/books/new-cambridge-history-of-islam/C39D67269342EBD437A11D25CEA81769)  
+[_Volume 4: Islamic Cultures and Societies to the End of the Eighteenth Century_](https://www.cambridge.org/core/books/new-cambridge-history-of-islam/E32DFCAE452A7FB7247318D16723F1E6)  
+[_Volume 5: The Islamic World in the Age of Western Dominance_](https://www.cambridge.org/core/books/new-cambridge-history-of-islam/389FA4A5C18A5C31892061BEBD346A18)  
+[_Volume 6: Muslims and Modernity: Culture and Society since 1800_](https://www.cambridge.org/core/books/new-cambridge-history-of-islam/11163FB3BBB4A718C082BC0BA0F1F71A)  
+
+* [**_Arabic-English Dictionary of Quranic Usage_**](https://brill.com/display/title/12492)  
+
+* [**_A History of Persian Literature_**](https://cfis.columbia.edu/research-projects/history-persian-literature)  
+[_Volume 01: General Introduction to Persian Literature_](https://www.bloomsbury.com/us/general-introduction-to-persian-literature-9781845118860/)  
+[_Volume 02: Persian Lyric Poetry in the Classical Era, 800-1500_](https://www.bloomsbury.com/uk/persian-lyric-poetry-in-the-classical-era-8001500-ghazals-panegyrics-and-quatrains-9781788318242/)  
+[_Volume 03: Persian Narrative Poetry in the Classical Era, 800-1500_](https://www.bloomsbury.com/us/persian-narrative-poetry-in-the-classical-era-8001500-romantic-and-didactic-genres-9781845119041/)  
+[_Volume 05: Persian Prose_](https://www.bloomsbury.com/us/persian-prose-9781845119065/)  
+[_Volume 17: The Literature of Pre-Islamic Iran_](https://www.bloomsbury.com/us/literature-of-preislamic-iran-9780857736536/)  
+
+* [**_Encyclopaedia of the Quran_**  ](https://brill.com/display/serial/ENQU)  
+
 * [**_Encyclopaedia Iranica_**](https://www.iranicaonline.org/)  
+
 * **_The Cambridge History of Iran_**  
 [_Volume 1: The Land of Iran_](https://www.cambridge.org/core/books/cambridge-history-of-iran/7373EE2A8C31D3285A8D75CE04D2E0F0)  
 [_Volume 2: The Median and Achaemenian Periods_](https://www.cambridge.org/core/books/cambridge-history-of-iran/DB61ED84C8CA739F99CA2CA67A3E2F62)  
@@ -112,16 +134,7 @@
 [_Volume 5: The Saljuq and Mongol Periods_](https://www.cambridge.org/core/books/cambridge-history-of-iran/D0BEE51C0C239F497ADBC0CA18796A5B)  
 [_Volume 6: The Timurid and Safavid Periods_](https://www.cambridge.org/core/books/cambridge-history-of-iran/5A33A1DB3F9C8F94837B52BE8D770EBA)  
 [_Volume 7: From Nadir Shah to the Islamic Republic_](https://www.cambridge.org/core/books/cambridge-history-of-iran/5C8E0F5F76CDA01CFBC1505F1612CD48)
-* [**_A Companion to the Archaeology of the Ancient Near East_** ](https://www.wiley.com/en-us/A+Companion+to+the+Archaeology+of+the+Ancient+Near+East-p-9781405189880)  
-* **_The New Cambridge History of Islam_**  
-[_Volume 1: The Formation of the Islamic World, Sixth to Eleventh Centuries_](https://www.cambridge.org/core/books/new-cambridge-history-of-islam/F5168228014274EAA4D7DCDB25627720)  
-[_Volume 2: The Western Islamic World, Eleventh to Eighteenth Centuries_](https://www.cambridge.org/core/books/new-cambridge-history-of-islam/CAEA752E397DC65D731D28B4E64AE760)  
-[_Volume 3: The Eastern Islamic World, Eleventh to Eighteenth Centuries_](https://www.cambridge.org/core/books/new-cambridge-history-of-islam/C39D67269342EBD437A11D25CEA81769)  
-[_Volume 4: Islamic Cultures and Societies to the End of the Eighteenth Century_](https://www.cambridge.org/core/books/new-cambridge-history-of-islam/E32DFCAE452A7FB7247318D16723F1E6)  
-[_Volume 5: The Islamic World in the Age of Western Dominance_](https://www.cambridge.org/core/books/new-cambridge-history-of-islam/389FA4A5C18A5C31892061BEBD346A18)  
-[_Volume 6: Muslims and Modernity: Culture and Society since 1800_](https://www.cambridge.org/core/books/new-cambridge-history-of-islam/11163FB3BBB4A718C082BC0BA0F1F71A)  
-* [**_Encyclopaedia of the Quran_**  ](https://brill.com/display/serial/ENQU)  
-* [**_Arabic-English Dictionary of Quranic Usage_**](https://brill.com/display/title/12492)  
+
 * [**_The Foreign Vocabulary of the Quran_**](https://brill.com/display/title/13028)  
 
 ## Research
