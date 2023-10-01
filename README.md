@@ -21,6 +21,7 @@
 [[view]](https://www.bloomsburycollections.com/book/early-islamic-iran-volume-v-the-idea-of-iran/). Volume 5: _Early Islamic Iran_ (Herzig, 2012)  
 [[view]](https://www.bloomsburycollections.com/book/the-age-of-the-seljuqs/). Volume 6: _The Age of Seljuqs_ (Herzig, 2015)  
 
+[[view]](https://academic.oup.com/book/40017). 2021. Howard-Johnston. _The Last Great War of Antiquity_  
 [[view]](https://press.princeton.edu/books/paperback/9780691208015/1177-bc). 2014. Cline. _1177 B.C. The Year Civilization Collapsed_  
 [[view]](https://www.bloomsbury.com/us/zoroastrianism-9781350128712/). 2011. Rose. _Zoroastrianism An Introduction_  
 [[view]](https://www.bloomsbury.com/us/sasanian-persia-9780755618439/). 2009. Daryaee. _Sasanian Persia_  
