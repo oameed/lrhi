@@ -52,8 +52,8 @@
     [[view]](https://press.uchicago.edu/ucp/books/book/chicago/T/bo3655535.html). 1984. Boyce. _Textual Sources for the Study of Zoroastrianism_  
   
     **_The Sacred Books of the East (Max Muller)_**  
-    [[view]](https://www.google.com/books/edition/The_Sacred_Books_of_the_East/_RApAAAAYAAJ?hl=en). Volume 4: The Zend Avesta, Part 1: The Vendidad (Darmesteter, 1895)  
-    [[view]](https://www.google.com/books/edition/The_Sacred_Books_of_the_East/KREpAAAAYAAJ?hl=en). Volume 5: Pahlavi Texts, Part 1: The Bundahis, etc. (West, 1880)  
+    [[view]](https://www.google.com/books/edition/The_Sacred_Books_of_the_East/_RApAAAAYAAJ?hl=en). Volume 04: The Zend Avesta, Part 1: The Vendidad (Darmesteter, 1895)  
+    [[view]](https://www.google.com/books/edition/The_Sacred_Books_of_the_East/KREpAAAAYAAJ?hl=en). Volume 05: Pahlavi Texts, Part 1: The Bundahis, etc. (West, 1880)  
     [[view]](https://www.google.com/books/edition/The_Sacred_Books_of_the_East_Pahlavi_tex/eBI9AAAAYAAJ?hl=en). Volume 18: Pahlavi Texts, Part 2: Dadistan-i Dinik, etc. (West, 1882)      
     [[view]](https://www.google.com/books/edition/The_Sacred_Books_of_the_East/WaIZAQAAIAAJ?hl=en). Volume 23: The Zend Avesta, Part 2: The Yasts, etc. (Darmesteter, 1879)  
     [[view]](https://www.google.com/books/edition/Sacred_Books_of_the_East/SixHAQAAMAAJ?hl=en&gbpv=0). Volume 24: Pahlavi Texts, Part 3: Mainog-i Khirad, Sad Dar, etc. (West, 1885)      
@@ -254,7 +254,7 @@
   * _The Indo-Europeans_<br/><br/>
     [[view]](https://www.oxbowbooks.com/oxbow/tracing-the-indo-europeans.html). 2019. Olsen. _Tracing the Indo-Europeans_  
     [[view]](https://press.princeton.edu/books/paperback/9780691148182/the-horse-the-wheel-and-language). 2007. Anthony. _The Horse, Wheel and Language_  
-    [view]. 1991. 1991. Mallory. _In Search of the Indo Europeans_  
+    [view]. 1991. Mallory. _In Search of the Indo Europeans_  
   
   * _The Israelites/Jews_<br/><br/>
   [[view]](https://global.oup.com/academic/product/the-jewish-study-bible-9780199978465?cc=us&lang=en&). _The Jewish Study Bible_ [[sefaria.org]](https://www.sefaria.org/texts/Tanakh) [[Torah's Sources]](https://en.wikiversity.org/wiki/Bible/King_James/Documentary_Hypothesis)<br/><br/>
